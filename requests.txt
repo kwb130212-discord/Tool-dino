@@ -1,0 +1,5 @@
+# HTTP 요청 및 외부 API 연동용 (선택)
+requests>=2.31.0
+
+# 터미널 UI나 추가 유틸리티가 필요할 때 확장 가능
+# (예: colorama, beautifulsoup4 등 필요한 패키지 추가)
